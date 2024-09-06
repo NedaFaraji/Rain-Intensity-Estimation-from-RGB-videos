@@ -9,3 +9,8 @@ The "convert" folder contains 1-min rain videos, whose path is specified by the 
 
 The path to the excel file including the names of 1-min events is specified at line 115.
 
+If you find the code interseting or have a question please contact me at: nfaraji@eng.ikiu.ac.ir
+
+Please cite to this article: 
+
+Rajabi , F . , Faraji , N . & Hashemi , M . An efficient· video-based rainfall· intensity· estimation employing different recurrent· neural network models . Earth Sci Inform 17 , 2367–2380 (2024). https://doi.org/10.1007/s12145-024-01290-x
